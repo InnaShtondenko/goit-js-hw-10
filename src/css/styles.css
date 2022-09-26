@@ -18,3 +18,22 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+input {
+  color: inherit;
+}
+
+li {
+  display: flex;
+  list-style: none;
+  align-items: center;
+  
+}
+ul,
+h2 {
+  display: inline;
+}
+img {
+  display: block;
+  margin-right: 10px;
+}
